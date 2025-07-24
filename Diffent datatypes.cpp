@@ -37,3 +37,12 @@ int main() {
 
     return 0;
 }
+//Enter any integer: 56
+// Integer = 56 and size is 4 bytes
+// Enter any number with decimal: 25.8
+// Float = 25.8 and size is 4 bytes
+// Enter any double value: fg
+// Double = 0 and size is 8 bytes
+// Enter any string (single word): String =  and size of object is 32 bytes
+// Enter any single character: Char = � and size is 1 bytes
+// Enter any boolean (0 or 1): Boolean = 255 and size is 1 bytes
